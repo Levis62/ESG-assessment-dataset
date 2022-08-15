@@ -1,1 +1,1 @@
-# ESG-assessment-dataset
+# There are two excel files about ESG assessment. One is the hierarchical ESG assessment framework & KPI. The other is the dataset and results of ESG assessment. For more information (e.g., programming code, raw data), you may contact the author. Thanks for the understanding.
